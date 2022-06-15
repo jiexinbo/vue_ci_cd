@@ -2,6 +2,7 @@
   "name": "vue_ci_cd",
   "version": "0.1.0",
   "private": true,
+  "homepage":"https://jiexinbo.github.io/vue-ci-cd",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",

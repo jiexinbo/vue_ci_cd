@@ -1,6 +1,6 @@
 {
-  "name": "vue_ci_cd11",
-  "version": "1.1.0",
+  "name": "vue_ci_cd",
+  "version": "0.1.1",
   "private": true,
   "homepage":"https://jiexinbo.github.io/vue_ci_cd",
   "scripts": {
